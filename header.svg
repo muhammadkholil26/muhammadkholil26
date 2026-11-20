@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 800 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;font-family:sans-serif;">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
+        .name{font-family:'Syne',sans-serif;font-size:48px;font-weight:800;margin:0;background:linear-gradient(135deg,#10b981 0%,#06d6a0 45%,#06b6d4 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 12px rgba(6,182,212,.3));}
+        .subtitle{font-family:'Syne',sans-serif;color:#a3aeb8;font-size:15px;margin-top:9px;font-weight:700;letter-spacing:.35px;}
+        .rocket{display:inline-block}
+        .badges-wrapper{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-top:24px;font-family:'JetBrains Mono',monospace;}
+        .cyber-badge{display:inline-flex;align-items:center;gap:8px;padding:7px 14px;border-radius:4px;font-size:12px;font-weight:500;background:rgba(16,185,129,.05);border:1px solid rgba(16,185,129,.3);color:#a3e6d3;}
+        .cyber-badge.cyan{background:rgba(6,182,212,.05);border-color:rgba(6,182,212,.3);color:#93c5fd;}
+      </style>
+      <div>
+        <h1 class="name">Muhammad Kholil</h1>
+        <div class="subtitle"><span class="rocket">🚀</span> Building Digital Solutions &amp; Learning Full-Stack Development <span class="rocket">🚀</span></div>
+        <div class="badges-wrapper">
+          <div class="cyber-badge"><span>{ }</span> Aspiring Full-Stack Developer</div>
+          <div class="cyber-badge cyan"><span>⌖</span> Indonesia</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
