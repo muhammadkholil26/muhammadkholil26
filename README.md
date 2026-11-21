@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- PROFILE HEADER -->
@@ -14,47 +15,93 @@
 <br/><br/>
 
 <!-- ANIMATED DEVELOPER TERMINAL -->
-<img src="./terminal.svg" alt="Animated developer terminal showing Muhammad Kholil's profile" width="100%" />
+<img src="./terminal.svg" alt="Animated developer terminal" width="100%" />
 
 </div>
 
+---
+
 ## ⚙️ Tech Stack & Tools
 
-### Frontend
+### 🌐 Frontend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
 </p>
 
-### Backend & Database
+### ⚡ Backend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="PHP Laravel MySQL" />
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
 </p>
 
-### Development Tools
+### 🗄️ Database
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux" />
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
 </p>
 
-### Mobile Development
+### 🛠️ Development Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Kotlin Android Studio" />
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20Coding%20Agent-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  </a>
+</p>
 
-## 🚀 Featured Projects
+### 📱 Mobile Development
 
-### 01. Khidmat Ummat
-A digital platform for clinic management, therapy booking, patient records, and herbal product services.
+<p align="center">
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+</p>
 
-`Laravel` `PHP` `MySQL`
-
-### 02. Laundry Multi-Tenant
-An ongoing project concept for a multi-tenant laundry marketplace with pickup and delivery services.
-
-`Web Development` `System Design`
-
----
 
 ## 📊 GitHub Analytics
 
@@ -70,7 +117,15 @@ An ongoing project concept for a multi-tenant laundry marketplace with pickup an
 
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhammadkholil26/muhammadkholil26/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
 
 ---
 
